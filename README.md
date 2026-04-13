@@ -42,7 +42,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-brtszslomski@gmail.com-3a1010?style=flat&logo=gmail&logoColor=e06060)](mailto:brtszslomski@gmail.com)
-[![Discord](https://img.shields.io/badge/-emowizo-101030?style=flat&logo=discord&logoColor=7289da)]()
+[![Discord](https://img.shields.io/badge/-emowizo-101030?style=flat&logo=discord&logoColor=7289da)](https://discord.gg/TCtfx3Dgru)
 
 </div>
 
