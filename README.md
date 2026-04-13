@@ -12,8 +12,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=3&section=header"/>
-
 ## Fav langs
 
 <div align="center">
