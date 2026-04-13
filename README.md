@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Developer · Reverse Engineer
+### Full-Stack Developer · Reverse Engineer · Cyber Security
 
 ![](https://img.shields.io/badge/Reverse%20Engineering-222222?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Driver%20Programming-222222?style=flat&logoColor=white)
