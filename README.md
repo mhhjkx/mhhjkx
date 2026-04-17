@@ -41,5 +41,3 @@
 [![Discord](https://img.shields.io/badge/-emowizo-101030?style=flat&logo=discord&logoColor=7289da)](https://discord.gg/TCtfx3Dgru)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b27,100:1a1f2e&height=120&section=footer"/>
