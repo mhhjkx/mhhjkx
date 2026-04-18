@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:161b27&height=200&section=header&text=mhhjkx&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
 <div align="center">
 
 ### Full-Stack Developer · Reverse Engineer · Cyber Security
