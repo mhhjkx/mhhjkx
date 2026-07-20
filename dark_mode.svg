@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="400px" font-size="16px">
+<style>
+  @font-face {
+    src: local('Consolas'), local('Consolas Bold');
+    font-family: 'ConsolasFallback';
+    font-display: swap;
+    -webkit-size-adjust: 109%;
+    size-adjust: 109%;
+  }
+  .key {fill: #ffa657;} 
+  .value {fill: #a5d6ff;} 
+  .cc {fill: #616e7f;} 
+  text, tspan {white-space: pre;}
+</style>
+
+<rect width="985px" height="400px" fill="#0d1117" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣶⣶⣶⣾⣶⣶⣦⣄⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣿⠛⠋⠉⠉⠀⠀⠈⠉⠙⣿⣷⡆⠀⠀⠀</tspan>
+<tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣦⡀⠀</tspan>
+<tspan x="15" y="90">⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡿⠃⠀⠀⠀⠀⠀⠀⣰⣶⣄⠀⠀⠀⠀⠸⣏⢷⠀⠀</tspan>
+<tspan x="15" y="110">⠈⠻⢿⣿⣿⠿⠿⠿⠿⠿⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⣿⣿⠇⠀⠀⠀⠀⠀⣗⠼⠀⠀</tspan>
+<tspan x="15" y="130">⠀⠀⠀⠙⠻⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠅</tspan>
+<tspan x="15" y="150">⠀⠀⠀⠀⠀⠈⠙⢿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠇</tspan>
+<tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣿⠀</tspan>
+<tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀</tspan>
+<tspan x="15" y="210">⠀⠀⠀⠀⠀⠀⠀⢠⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀</tspan>
+<tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⠀⣸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠇⠀</tspan>
+<tspan x="15" y="250">⠀⠀⠀⠀⠀⠀⢀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠁⠀</tspan>
+<tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠇⠀⠀</tspan>
+<tspan x="15" y="290">⠀⠀⠀⠀⠀⢰⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠀⠀⠀</tspan>
+<tspan x="15" y="310">⠀⠀⠀⠀⠀⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀</tspan>
+</text>
+
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">mhhjkx@github</tspan> -————————————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Junior Backend Developer</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Poland</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">CyberSec, Reverse Engineering</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Seeking Internship/Junior</tspan>
+
+<tspan x="390" y="150">- Stack</tspan> -————————————————————————————————————————————————————-—-
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">C/C++, C#/.NET, Java, JavaScript</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Git, SQL, REST API, Docker</tspan>
+
+<tspan x="390" y="230">- Contact</tspan> -——————————————————————————————————————————————————-—-
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">brtszslomski@gmail.com</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">emowizo</tspan>
+
+<tspan x="390" y="310" class="cc">"Looking for environments that value code quality."</tspan>
+</text>
+</svg>
